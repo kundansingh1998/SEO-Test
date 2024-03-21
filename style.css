@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+h2{
+    color: aliceblue;
+}
+
+h3{
+    color: aliceblue;
+}
+
+.col{
+    color: aliceblue;
+}
+
+span{
+    color: aliceblue;
+}
+
+.nav-link{
+    color: #00c0ff;
+}
+
+.text{
+    color:aliceblue;
+}
+
+.profile-box{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.Shape{
+    height: 300px;
+    object-fit: cover;
+}
+
+li{
+    color: aliceblue;
+}
+
+dl{
+    color: aliceblue;
+}
+
+h4{
+    color: aliceblue;
+}
+
+h6{
+    color: aliceblue;
+}
+
+small{
+    color: aliceblue;
+}
